@@ -14,6 +14,8 @@ Before starting, ensure you have:
 
 Instructions on setting up your environment can be found here: <https://developer.salesforce.com/docs/platform/einstein-for-devs/guide/einstein-setup.html>
 
+This project is designed to work in a scratch org, so you will need one of those as well.
+
 ## Getting Started
 
 1. Clone this project to your workstation using `git clone https://github.com/markslott/a4d-primer`
