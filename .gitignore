@@ -1,0 +1,17 @@
+# Salesforce CLI specific files
+.sfdx/
+.sf/
+
+# Node.js dependencies
+node_modules/
+
+# Build artifacts
+target/
+build/
+
+# Log files
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
