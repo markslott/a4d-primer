@@ -16,7 +16,7 @@ Instructions on setting up your environment can be found here: <https://develope
 
 ## Getting Started
 
-1. Clone this project to your workstation using `git clone`
+1. Clone this project to your workstation using `git clone https://github.com/markslott/a4d-primer`
 2. Open Agentforce Vibes and click the Manage Agentforce Rules & Workflows button (bottom left of the frame). Enable all of the Global Rules.
 3. Add a new custom workspace rule (call it my-custom-rule.md) and paste in the contents of `my-workflow-instructions.md`. This will add a couple of rules that might make things go a little smoother.
 4. Put Agentforce Vibes into `plan` mode (button is in the bottom right corner of the frame) and enter the following prompt:
