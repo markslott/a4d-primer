@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple time clock application built using Salesforce Lightning Platform technologies. The application allows employees to clock in and out, with all times automatically recorded and calculated.
+The goal of this project is to make Agentforce Vibes develop a simple time clock application. The application allows employees to clock in and out, with all times automatically recorded and calculated.  This project only contains a very basic scaffolding to get started with.
 
 ## Prerequisites
 
