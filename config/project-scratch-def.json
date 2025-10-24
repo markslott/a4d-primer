@@ -1,5 +1,13 @@
 {
-  "orgName": "mlott company",
+  "orgName": "a4d test app",
   "edition": "Developer",
-  "features": []
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
 }

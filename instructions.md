@@ -16,6 +16,8 @@ Instructions on setting up your environment can be found here: <https://develope
 
 This project is designed to work in a scratch org, so you will need one of those as well.
 
+When you deploy the app to test it, don't forget to add your user to your perm sets
+
 ## Getting Started
 
 1. Clone this project to your workstation using `git clone https://github.com/markslott/a4d-primer`
